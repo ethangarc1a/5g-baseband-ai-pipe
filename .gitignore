@@ -1,0 +1,18 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Vivado simulation files
+.Xil/
+xsim.dir/
+*.wdb
+*.jou
+*.log
+*.pb
+
+# Vivado generated directories
+.cache/
+.runs/
+.sim/
+.gen/
